@@ -1,0 +1,37 @@
+<list>
+  <consulta>
+    <consulta__id>0</consulta__id>
+    <nome>João da Silva 23</nome>
+    <cpf>123.125.421-121</cpf>
+  </consulta>
+  <consulta>
+    <consulta__id>0</consulta__id>
+    <nome>Nelson Fonseca</nome>
+    <cpf>123.421.215-1</cpf>
+    <datac>2010-10-12 03:00:00.0 UTC</datac>
+  </consulta>
+  <consulta>
+    <consulta__id>0</consulta__id>
+    <nome>Nelson Fonseca</nome>
+    <cpf>123.421.215-1</cpf>
+    <datac>2010-10-12 03:00:00.0 UTC</datac>
+  </consulta>
+  <consulta>
+    <consulta__id>0</consulta__id>
+    <nome>Nelson Fonseca</nome>
+    <cpf>123.421.215-1</cpf>
+    <datac>2010-10-12 03:00:00.0 UTC</datac>
+  </consulta>
+  <consulta>
+    <consulta__id>0</consulta__id>
+    <nome>Nelson Fonseca</nome>
+    <cpf>153.421.215-1</cpf>
+    <datac>2010-10-22 02:00:00.0 UTC</datac>
+  </consulta>
+  <consulta>
+    <consulta__id>0</consulta__id>
+    <nome>Luisa Fonseca</nome>
+    <cpf>153.421.215-1</cpf>
+    <datac>2010-10-22 02:00:00.0 UTC</datac>
+  </consulta>
+</list>
