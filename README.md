@@ -8,3 +8,9 @@ Tecnologias utilizadas
 
 JAR adicional
 - Xstream 1.4.8 (para persistencia em XML)
+
+Modelagem de dados:
+- Diagrama de Caso de Uso
+- Diagrama de Sequencia
+- Diagrama de Classes
+- Modelo Entidade Relacionamento
